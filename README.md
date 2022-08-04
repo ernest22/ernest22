@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ernest22&count_private=true&hide_rank=false&show_icons=true&theme=dark&include_all_commits=true" alt="ernest22's GitHub Stats">
 <!--
 **ernest22/ernest22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
